@@ -192,11 +192,11 @@ input_mode = st.radio(
 
 if input_mode == "Manual entry":
     # ---- Delivery Details ----
-    st.markdown("#### 📦 Delivery Details")
+    st.markdown("#### 📦 Delivery Details(with city)")
     delivery_location = st.text_input("Delivery Location", placeholder="E.g., Hiranandani, Powai")
 
     # ---- Restaurant Details ----
-    st.markdown("#### 🍽️ Restaurant Details")
+    st.markdown("#### 🍽️ Restaurant Details(with city)")
     col1, col2 = st.columns([5, 2])
     with col2:
         dont_know = st.checkbox("Don't know the restaurant?", key="dont_know",
