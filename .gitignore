@@ -1,6 +1,1 @@
 venv/
-city_pop_dict.pkl
-encoder.pkl
-lgbm_model.pkl
-pickup_time_model.pkl
-xgb_model.pkl
