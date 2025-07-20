@@ -57,4 +57,20 @@ flowchart LR
 
 
 
+---
+
+## 🙋 Why Not KNN?
+
+While **K-Nearest Neighbors (KNN)** is a popular method for finding nearby points, this project avoids it due to **limited dataset size** and hardware constraints.
+
+Instead, we use a **real-time API** to fetch the 5 nearest restaurants for any delivery location. This:
+- Reduces computation on personal machines
+- Is more efficient than training a KNN model on a small dataset
+- Makes it scalable and dynamic using live geolocation data
+
+
+
+
+
+
 
