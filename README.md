@@ -17,6 +17,7 @@ An intelligent machine learning project that predicts food delivery time using g
 - ⚡ Real-time inference via **Streamlit** deployment  
 
 ---
+
 ## 🛠️ Tech Stack
 - 🐍 Python
 
@@ -30,6 +31,8 @@ An intelligent machine learning project that predicts food delivery time using g
 
 - ☁️ OpenWeatherMap API
 
+---
+
 ## Insatallation
 1. Clone the repository:
 
@@ -38,6 +41,8 @@ An intelligent machine learning project that predicts food delivery time using g
    cd food-delivery-time-prediction
    pip install -r requirements.txt
    streamlit run app.py
+
+---
 
 ## 🧠 Model Architecture
 
@@ -56,6 +61,7 @@ flowchart LR
     E --> F[Predicted Delivery Time]
 
 
+```
 
 ---
 
@@ -67,8 +73,6 @@ Instead, we use a **real-time API** to fetch the 5 nearest restaurants for any d
 - Reduces computation on personal machines
 - Is more efficient than training a KNN model on a small dataset
 - Makes it scalable and dynamic using live geolocation data
-
-
 
 
 
