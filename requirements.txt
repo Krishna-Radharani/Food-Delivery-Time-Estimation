@@ -1,3 +1,4 @@
 streamlit
 scikit-learn
 haversine
+streamlit_folium
