@@ -30,6 +30,14 @@ An intelligent machine learning project that predicts food delivery time using g
 
 - ☁️ OpenWeatherMap API
 
+## Insatallation
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/food-delivery-time-prediction.git
+   cd food-delivery-time-prediction
+   pip install -r requirements.txt
+   streamlit run app.py
 
 ## 🧠 Model Architecture
 
@@ -47,7 +55,6 @@ flowchart LR
     D --> E[ETA Prediction - XGBoost + LGBM]
     E --> F[Predicted Delivery Time]
 
-```bash
-git clone https://github.com/your-username/food-delivery-time-prediction.git
-cd food-delivery-time-prediction
+
+
 
