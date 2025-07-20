@@ -24,9 +24,9 @@ An intelligent machine learning project that predicts food delivery time using g
 
 - 🌐 Streamlit (frontend & deployment)
 
--📍OpenCage / Google Maps API
+- 📍OpenCage / Google Maps API
 
--☁️ OpenWeatherMap API
+- ☁️ OpenWeatherMap API
 
 
 ## 🧠 Model Architecture
