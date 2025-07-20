@@ -2,7 +2,7 @@
 
 An intelligent machine learning project that predicts food delivery time using geolocation, weather data, and user input — designed with simplicity, modularity, and real-world usability in mind.
 
-![App Screenshot](images/app_home.png)
+![App Screenshot](IMG2.png)
 
 ---
 
