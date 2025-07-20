@@ -46,3 +46,8 @@ flowchart LR
     C --> D[Pickup Time - Linear Regression]
     D --> E[ETA Prediction - XGBoost + LGBM]
     E --> F[Predicted Delivery Time]
+
+```bash
+git clone https://github.com/your-username/food-delivery-time-prediction.git
+cd food-delivery-time-prediction
+
