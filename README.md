@@ -1,6 +1,10 @@
 # 🚚 Food Delivery Time Prediction
 
 An intelligent machine learning project that predicts food delivery time using geolocation, weather data, and user input — designed with simplicity, modularity, and real-world usability in mind.
+---
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://food-delivery-time-estimation-6v2t8brmiruvvxuygbhqjk.streamlit.app/)  
 
 ![App Screenshot](IMG2.png)
 ![App Screenshot](IMG3.png)
